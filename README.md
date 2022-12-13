@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kerem0z
-- 👀 I’m interested in Automation Systems
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Swift
+
 
 
 <!---
